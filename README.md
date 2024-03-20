@@ -1,2 +1,2 @@
 # hello-world
-This is my first hello world push progrom
+This is my first hello world push prog
